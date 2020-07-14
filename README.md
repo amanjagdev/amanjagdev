@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Aman Jagdev!](https://amankrjagdev.web.app) 
+### Hey 👋🏻, I'm [Aman Jagdev!](https://amankrjagdev.web.app) 
 
 <a href="https://www.linkedin.com/in/amanjagdev/">
   <img align="left" alt="Aman's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
