@@ -10,9 +10,11 @@
 <br />
 <br />
 
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
+Hi, I'm Aman Jagdev, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
  
@@ -21,6 +23,8 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently loves 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amankumarjagdev@gmail.com;
 - ⚡️ Want to learn C++ in deep;
+
+<br/>
 
 **Languages and Tools:**  
 
@@ -37,6 +41,6 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently loves 
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanjagdev&show_icons=true&hide_border=true)
 
-<br/><br/>
+<br/>
 
 **⭐️ From [amanjagdev](https://github.com/amanjagdev)**
